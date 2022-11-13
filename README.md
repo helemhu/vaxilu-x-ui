@@ -1,3 +1,5 @@
+https://github.com/vaxilu/x-ui
+
 # x-ui
 
 支持多协议多用户的 xray 面板
